@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Collection;
 
-public class Test {
+public class Exercice2 {
 	int sum = 0;
 	Collection<A> read(InputStream stream) throws IOException {
 		/* omitted */ 

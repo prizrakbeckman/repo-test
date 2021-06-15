@@ -2,9 +2,9 @@ package ma.priz.test;
 
 import java.util.stream.IntStream;
 
-public class TestMain {
+public class Exercice4 {
 	
-	private static final int TAILLE_TABLEAU= 100;
+	private static final int TAILLE_TABLEAU= 9;
 	
 	private static final int INDEX_INITIAL = 0;
 	
